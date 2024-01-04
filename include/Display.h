@@ -2,14 +2,14 @@
 
 class Display
 {
-  int a = D2;
-  int b = D3;
-  int c = D4;
-  int d = D5;
-  int e = D6;
-  int f = D7;
-  int g = D8;
-  int dp = D9;
+  int a = D0;
+  int b = D1;
+  int c = D2;
+  int d = D3;
+  int e = D4;
+  int f = D5;
+  int g = D6;
+  int dp = D7;
 
 public:
   void begin()
